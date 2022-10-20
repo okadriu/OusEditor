@@ -16,8 +16,8 @@
 # Projekt
 
 <div align="center">
-  <a href="https://bootstrap5login.netlify.app/">
-  <a href="https://gifyu.com/image/S9rqA"><img src="https://s1.gifyu.com/images/OusEditor-GIF-Demo.gif" alt="OusEditor-GIF-Demo.gif" border="0" /></a>
+  <a href="https://ouseditor.netlify.app/">
+  <img src="https://s1.gifyu.com/images/OusEditor-GIF-Demo.gif" alt="OusEditor-GIF-Demo.gif" border="0" />
   </a>
 </div>
 
