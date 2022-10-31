@@ -23,5 +23,6 @@
 
 ## Reflexion
 Mit diesem Projekt habe ich mein CSS-Wissen sehr erweitert, vorallem, was man alles mit der Funktion "Display: Flex;" machen kann. Ebenfalls beherrsche ich jetzt neue Animationen, die ich vorher nicht kannte.
+Dieses Projekt habe ich mit einem Video erarbeitet, das Projekt habe ich nicht allein gemacht, jedoch konnte ich vieles mitnehmen, beim Zuhören und Mitmachen.
 
 <p align="right">(<a href="#readme-top">Zurück nach oben</a>)</p>
